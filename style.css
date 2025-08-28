@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+header, footer {
+  text-align: center;
+  background: #333;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+section {
+  margin: 2rem 0;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
